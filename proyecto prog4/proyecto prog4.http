@@ -1,0 +1,6 @@
+@BASE_URL = http://localhost:5291/api
+
+GET {{BASE_URL}}/weatherforecast/
+Accept: application/json
+
+###

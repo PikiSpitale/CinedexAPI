@@ -1,0 +1,1174 @@
+{
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisi\u00F3n de Shawshank. Con el paso de los a\u00F1os conseguir\u00E1 ganarse la confianza del director del centro y el respeto de sus compa\u00F1eros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "popularity": 33.6374,
+      "poster_path": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "release_date": "1994-09-23",
+      "title": "Cadena perpetua",
+      "video": false,
+      "vote_average": 8.712,
+      "vote_count": 29137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jdHsptJbtalEuVhCV5i7kSC3g0x.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Don Vito Corleone, conocido dentro de los c\u00EDrculos del hampa como \u0027El Padrino\u0027, es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los a\u00F1os cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "popularity": 26.0066,
+      "poster_path": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "release_date": "1972-03-14",
+      "title": "El padrino",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 22012
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "Continuaci\u00F3n de la saga de los Corleone con dos historias paralelas: la elecci\u00F3n de Michael Corleone como jefe de los negocios familiares y los or\u00EDgenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, lleg\u00F3 a ser un poderos\u00EDsimo jefe de la mafia de Nueva York.",
+      "popularity": 13.9968,
+      "poster_path": "/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "release_date": "1974-12-20",
+      "title": "El Padrino Parte II",
+      "video": false,
+      "vote_average": 8.571,
+      "vote_count": 13301
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "original_language": "en",
+      "original_title": "Schindler\u0027s List",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones p\u00FAblicas, organiza un ambicioso plan para ganarse la simpat\u00EDa de los nazis. Despu\u00E9s de la invasi\u00F3n de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una f\u00E1brica de Cracovia. All\u00ED emplea a cientos de operarios jud\u00EDos, cuya explotaci\u00F3n le hace prosperar r\u00E1pidamente. Su gerente, tambi\u00E9n jud\u00EDo, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "popularity": 13.6492,
+      "poster_path": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "release_date": "1993-12-15",
+      "title": "La lista de Schindler",
+      "video": false,
+      "vote_average": 8.567,
+      "vote_count": 16825
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 389,
+      "original_language": "en",
+      "original_title": "12 Angry Men",
+      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once est\u00E1n completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los dem\u00E1s.",
+      "popularity": 10.6725,
+      "poster_path": "/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
+      "release_date": "1957-04-10",
+      "title": "12 hombres sin piedad",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 9497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "original_language": "ja",
+      "original_title": "\u5343\u3068\u5343\u5C0B\u306E\u795E\u96A0\u3057",
+      "overview": "Durante el traslado de su familia a los suburbios, una ni\u00F1a de 10 a\u00F1os de edad deambula por un mundo gobernado por dioses, brujas y esp\u00EDritus, y donde los humanos se convierten en bestias.",
+      "popularity": 19.4207,
+      "poster_path": "/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
+      "release_date": "2001-07-20",
+      "title": "El viaje de Chihiro",
+      "video": false,
+      "vote_average": 8.534,
+      "vote_count": 17600
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "id": 155,
+      "original_language": "en",
+      "original_title": "The Dark Knight",
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "popularity": 30.5002,
+      "poster_path": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "release_date": "2008-07-16",
+      "title": "El caballero oscuro",
+      "video": false,
+      "vote_average": 8.524,
+      "vote_count": 34628
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zQDFHYNVVVp9OAYSixYAG1SyX1l.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "original_language": "hi",
+      "original_title": "\u0926\u093F\u0932\u0935\u093E\u0932\u0947 \u0926\u0941\u0932\u094D\u0939\u0928\u093F\u092F\u093E \u0932\u0947 \u091C\u093E\u092F\u0947\u0902\u0917\u0947",
+      "overview": "Los Singh son una familia india con grandes convicciones culturales de su naci\u00F3n de origen, que emigraron a Reino Unido antes de nacer sus primeros hijos. Uno de ellos querr\u00E1 casarse con una mujer ajena a su cultura y para ello deber\u00E1 hacer todos los esfuerzos por convencer a su familia.",
+      "popularity": 9.7973,
+      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "release_date": "1995-10-20",
+      "title": "Un amor contra viento y marea",
+      "video": false,
+      "vote_average": 8.514,
+      "vote_count": 4517
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+      "genre_ids": [
+        14,
+        18,
+        80
+      ],
+      "id": 497,
+      "original_language": "en",
+      "original_title": "The Green Mile",
+      "overview": "En el sur de los Estados Unidos, en plena Depresi\u00F3n, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla el\u00E9ctrica. Esperando su ejecuci\u00F3n est\u00E1 John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve a\u00F1os. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares m\u00E1s insospechados.",
+      "popularity": 14.9165,
+      "poster_path": "/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "release_date": "1999-12-10",
+      "title": "La milla verde",
+      "video": false,
+      "vote_average": 8.503,
+      "vote_count": 18500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 496243,
+      "original_language": "ko",
+      "original_title": "\uAE30\uC0DD\uCDA9",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia est\u00E1n sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en com\u00FAn pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelaci\u00F3n de resultados imprevisibles.",
+      "popularity": 22.3091,
+      "poster_path": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "release_date": "2019-05-30",
+      "title": "Par\u00E1sitos",
+      "video": false,
+      "vote_average": 8.497,
+      "vote_count": 19654
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 122,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una peque\u00F1a esperanza. La atenci\u00F3n del se\u00F1or oscuro Sauron se centra ahora en Gondor, el \u00FAltimo reducto de los hombres, y del cual Aragorn tendr\u00E1 que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el \u00FAltimo y definitivo ataque contra el reino de Gondor, la batalla que decidir\u00E1 el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos peque\u00F1os Hobbits se acercan cada d\u00EDa m\u00E1s al final de su camino, el Monte del Destino.",
+      "popularity": 21.779,
+      "poster_path": "/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "release_date": "2003-12-17",
+      "title": "El se\u00F1or de los anillos: El retorno del rey",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 25609
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 680,
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misi\u00F3n: recuperar un misterioso malet\u00EDn.",
+      "popularity": 24.6238,
+      "poster_path": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "release_date": "1994-09-10",
+      "title": "Pulp Fiction",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 29229
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "original_language": "ja",
+      "original_title": "\u541B\u306E\u540D\u306F\u3002",
+      "overview": "Taki y Mitsuha descubren un d\u00EDa que durante el sue\u00F1o sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un v\u00EDnculo que poco a poco se convierte en algo m\u00E1s rom\u00E1ntico.",
+      "popularity": 18.3799,
+      "poster_path": "/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "release_date": "2016-08-26",
+      "title": "Your Name",
+      "video": false,
+      "vote_average": 8.479,
+      "vote_count": 12070
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegar\u00E1 a convertirse, entre otras cosas, en un h\u00E9roe durante la Guerra del Vietnam. Su persistencia y bondad le llevar\u00E1n a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las m\u00E1s altas esferas sociales y pol\u00EDticas del pa\u00EDs. Siempre sin olvidar a Jenny, su gran amor desde que era ni\u00F1o.",
+      "popularity": 73.8094,
+      "poster_path": "/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+      "release_date": "1994-06-23",
+      "title": "Forrest Gump",
+      "video": false,
+      "vote_average": 8.464,
+      "vote_count": 28791
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+      "genre_ids": [
+        12,
+        18,
+        878
+      ],
+      "id": 157336,
+      "original_language": "en",
+      "original_title": "Interstellar",
+      "overview": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+      "popularity": 45.7232,
+      "poster_path": "/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
+      "release_date": "2014-11-05",
+      "title": "Interstellar",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 38155
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 429,
+      "original_language": "it",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "overview": "Durante la Guerra de Secesi\u00F3n, tres cazadores de recompensas se lanzan a la b\u00FAsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y ni\u00F1os para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentar\u00E1n eliminarse mutuamente.",
+      "popularity": 11.0526,
+      "poster_path": "/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "release_date": "1966-12-22",
+      "title": "El bueno, el feo y el malo",
+      "video": false,
+      "vote_average": 8.462,
+      "vote_count": 9227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 769,
+      "original_language": "en",
+      "original_title": "GoodFellas",
+      "overview": "Henry, un ni\u00F1o de trece a\u00F1os de Brooklyn, vive fascinado con el mundo de los g\u00E1ngsters. Su sue\u00F1o se hace realidad cuando entra a formar parte de la familia Pauline, due\u00F1a absoluta de la zona, que lo educan como un miembro m\u00E1s de la banda convirti\u00E9ndole en un destacado mafioso.",
+      "popularity": 13.5128,
+      "poster_path": "/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+      "release_date": "1990-09-12",
+      "title": "Uno de los nuestros",
+      "video": false,
+      "vote_average": 8.454,
+      "vote_count": 13740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 346,
+      "original_language": "ja",
+      "original_title": "\u4E03\u4EBA\u306E\u4F8D",
+      "overview": "Una banda de forajidos atemorizan a los habitantes de un peque\u00F1o pueblo, saque\u00E1ndolos peri\u00F3dicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
+      "popularity": 7.9908,
+      "poster_path": "/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
+      "release_date": "1954-04-26",
+      "title": "Los siete samur\u00E1is",
+      "video": false,
+      "vote_average": 8.451,
+      "vote_count": 4015
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10752
+      ],
+      "id": 12477,
+      "original_language": "ja",
+      "original_title": "\u706B\u5782\u308B\u306E\u5893",
+      "overview": "Verano de 1945. La aviaci\u00F3n estadounidense somete las ciudades japonesas a continuos ataques a\u00E9reos. En uno de ellos, una incursi\u00F3n con bombas incendiarias convierte la ciudad de K\u014Dbe en un infierno humeante, para los dos protagonistas (Seita, de 14 a\u00F1os, y su hermanita Setsuko, de 5). El joven Seita y su peque\u00F1a hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un d\u00EDa, tras un bombardeo, ellos se retrasan y no consiguen llegar al b\u00FAnker donde ella los espera.",
+      "popularity": 0.0124,
+      "poster_path": "/juKTAn2AuoE9MvCNvf3kwZrt1t4.jpg",
+      "release_date": "1988-04-16",
+      "title": "La tumba de las luci\u00E9rnagas",
+      "video": false,
+      "vote_average": 8.446,
+      "vote_count": 6174
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 637,
+      "original_language": "it",
+      "original_title": "La vita \u00E8 bella",
+      "overview": "En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo, en la Toscana, con la intenci\u00F3n de abrir una librer\u00EDa. All\u00ED conoce a la encantadora Dora y, a pesar de que es la prometida del fascista Rodolfo, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido har\u00E1 lo imposible para hacer creer a su hijo que la terrible situaci\u00F3n que est\u00E1n padeciendo es tan s\u00F3lo un juego.",
+      "popularity": 8.4903,
+      "poster_path": "/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg",
+      "release_date": "1997-12-20",
+      "title": "La vida es bella",
+      "video": false,
+      "vote_average": 8.44,
+      "vote_count": 13605
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5TiwfWEaPSwD20uwXjCTUqpQX70.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 550,
+      "original_language": "en",
+      "original_title": "Fight Club",
+      "overview": "Un joven sin ilusiones lucha contra su insomnio, consecuencia quiz\u00E1s de su hast\u00EDo por su gris y rutinaria vida. En un viaje en avi\u00F3n conoce a Tyler Durden, un carism\u00E1tico vendedor de jab\u00F3n que sostiene una filosof\u00EDa muy particular: el perfeccionismo es cosa de gentes d\u00E9biles; en cambio, la autodestrucci\u00F3n es lo \u00FAnico que hace que realmente la vida merezca la pena. Ambos deciden entonces formar un club secreto de lucha donde descargar sus frustaciones y su ira que tendr\u00E1 un \u00E9xito arrollador.",
+      "popularity": 19.7722,
+      "poster_path": "/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "release_date": "1999-10-15",
+      "title": "El Club de la Lucha",
+      "video": false,
+      "vote_average": 8.438,
+      "vote_count": 30938
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+      "genre_ids": [
+        10751,
+        18
+      ],
+      "id": 667257,
+      "original_language": "es",
+      "original_title": "Cosas imposibles",
+      "overview": "La vida es tan curiosa e impredecible que, a veces, uno encuentra la felicidad donde menos lo espera. Matilde es una mujer que, tras la muerte de su esposo \u2013un hombre que abus\u00F3 de ella constantemente\u2013, encuentra a su nuevo gran amigo en Miguel, su vecino joven, inseguro, desorientado y hasta dealer..",
+      "popularity": 2.6803,
+      "poster_path": "/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg",
+      "release_date": "2021-06-17",
+      "title": "Cosas imposibles",
+      "video": false,
+      "vote_average": 8.435,
+      "vote_count": 415
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e3hG3uadtcP0pYdRa5ch4ysQW76.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 14537,
+      "original_language": "ja",
+      "original_title": "\u5207\u8179",
+      "overview": "Un samur\u00E1i pide permiso para practicarse el Seppuku (o Harakiri), ceremonia durante la cual se quitar\u00E1 la vida abri\u00E9ndose el est\u00F3mago al tiempo que otro samur\u00E1i lo decapitar\u00E1. Solicita tambi\u00E9n poder contar la historia que le ha llevado a tomar tan tr\u00E1gica decisi\u00F3n.",
+      "popularity": 4.9712,
+      "poster_path": "/3uRTEObwdN7Q3u5xswL2Vf8EsOn.jpg",
+      "release_date": "1962-09-15",
+      "title": "Harakiri",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 1124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 11216,
+      "original_language": "it",
+      "original_title": "Nuovo Cinema Paradiso",
+      "overview": "En un peque\u00F1o pueblo siciliano durante los a\u00F1os previos a la llegada de la televisi\u00F3n (justo al finalizar la Segunda Guerra Mundial) el joven Toto viv\u00EDa fascinado por el cine. Toto trata de entablar amistad con Alfredo, el proyeccionista del cine local, una persona muy irritable pero con un gran coraz\u00F3n. Todos estos hechos se presentan en forma de nost\u00E1lgicos recuerdos de Toto que ha crecido hasta convertirse en un cineasta de \u00E9xito, y que revive a su infancia cuando recibe la noticia de que Alfredo ha muerto.",
+      "popularity": 5.1052,
+      "poster_path": "/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg",
+      "release_date": "1988-11-17",
+      "title": "Cinema Paradiso",
+      "video": false,
+      "vote_average": 8.433,
+      "vote_count": 4641
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 598,
+      "original_language": "pt",
+      "original_title": "Cidade de Deus",
+      "overview": "Basada en hechos reales, cuenta la historia del crecimiento del crimen organizado en los suburbios de la ciudad de R\u00EDo de Janeiro, desde finales de los a\u00F1os sesenta hasta el comienzo de los ochenta, cuando el tr\u00E1fico de drogas y la violencia impusieron su ley entre la miseria de las favelas.\u201CBuscap\u00E9\u201D tiene 11 a\u00F1os y es s\u00F3lo un ni\u00F1o m\u00E1s en Cidade de Deus, un suburbio de R\u00EDo de Janeiro. T\u00EDmido y delicado, observa a los ni\u00F1os duros de su barrio, sus robos, sus peleas, sus enfrentamientos diarios con la polic\u00EDa. Ya sabe lo que quiere ser si consigue sobrevivir: fot\u00F3grafo. \u201CDadinho\u201D, un ni\u00F1o de su misma edad, se traslada al barrio. Sue\u00F1a con ser el criminal m\u00E1s peligroso de R\u00EDo de Janeiro y empieza su aprendizaje haciendo recados para los delincuentes locales. Dos vidas paralelas en Cidade de Deus.",
+      "popularity": 8.2811,
+      "poster_path": "/zYjngc6yGUO1IEuAwk0yAhg8CKh.jpg",
+      "release_date": "2002-08-30",
+      "title": "Ciudad de Dios",
+      "video": false,
+      "vote_average": 8.428,
+      "vote_count": 7848
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 120,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "overview": "En la Tierra Media, el Se\u00F1or Oscuro Saur\u00F3n cre\u00F3 los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Se\u00F1ores Enanos, y nueve para los Hombres Mortales. Secretamente, Saur\u00F3n tambi\u00E9n forj\u00F3 un anillo maestro, el Anillo \u00DAnico, que contiene en s\u00ED el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misi\u00F3n de destruir el Anillo \u00DAnico. Pero el Se\u00F1or Oscuro Sauron, quien creara el Anillo, env\u00EDa a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, ser\u00EDa el final de la Tierra Media.",
+      "popularity": 81.3896,
+      "poster_path": "/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "release_date": "2001-12-18",
+      "title": "El se\u00F1or de los anillos: La comunidad del anillo",
+      "video": false,
+      "vote_average": 8.425,
+      "vote_count": 26537
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 539,
+      "original_language": "en",
+      "original_title": "Psycho",
+      "overview": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un peque\u00F1o motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras est\u00E1 en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+      "popularity": 12.2219,
+      "poster_path": "/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+      "release_date": "1960-06-22",
+      "title": "Psicosis",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 10588
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg",
+      "genre_ids": [
+        35,
+        18,
+        14,
+        10749
+      ],
+      "id": 40096,
+      "original_language": "pt",
+      "original_title": "O Auto da Compadecida",
+      "overview": "En el interior del estado de Par\u00EDba, en el pueblo de Tapero\u00E1, viven Jo\u00E3o Grilo y Chic\u00F3, dos tipos muy pobres que van anunciando por las calles la mejor pel\u00EDcula del mundo, \u0027La Pasi\u00F3n de Cristo\u0027. La sesi\u00F3n tiene \u00E9xito y ellos ganan algo de dinero pero siguen luchando por la supervivencia. Jo\u00E3o Grilo y Chic\u00F3 planean nuevas tretas para conseguir alg\u00FAn dinero y se enfrentan a numeroso desaf\u00EDos provocando m\u00FAltiples confusiones causadas por la astucia de Jo\u00E3o Grilo, siempre acompa\u00F1ado de Chic\u00F3.",
+      "popularity": 1.7279,
+      "poster_path": "/xWCKF7hgOicb3A0XiY13SdlwRcn.jpg",
+      "release_date": "2000-09-15",
+      "title": "O Auto da Compadecida",
+      "video": false,
+      "vote_average": 8.421,
+      "vote_count": 1190
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vMylmakO2K9cZexNUze8wa9muJp.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 510,
+      "original_language": "en",
+      "original_title": "One Flew Over the Cuckoo\u0027s Nest",
+      "overview": "Randle McMurphy (Jack Nicholson), un violador de esp\u00EDritu libre, que vive contracorriente, es recluido en un hospital psiqui\u00E1trico. La inflexible disciplina del centro acent\u00FAa su contagiosa tendencia al desorden, que acabar\u00E1 desencadenando una guerra entre los pacientes y el personal de la cl\u00EDnica con la fr\u00EDa y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabell\u00F3n est\u00E1 en juego.",
+      "popularity": 9.9545,
+      "poster_path": "/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
+      "release_date": "1975-11-19",
+      "title": "Alguien vol\u00F3 sobre el nido del cuco",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 11013
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mshaKLtPUxcDBhzau6qiObEblhL.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 121,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "overview": "La Compa\u00F1\u00EDa del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo \u00DAnico y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cay\u00F3 Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saur\u00F3n y el traidor Sarum\u00E1n contin\u00FAan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "popularity": 16.985,
+      "poster_path": "/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+      "release_date": "2002-12-18",
+      "title": "El se\u00F1or de los anillos: Las dos torres",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 23049
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 696374,
+      "original_language": "en",
+      "original_title": "Gabriel\u0027s Inferno",
+      "overview": "El enigm\u00E1tico y atractivo profesor Gabriel Emerson, reconocido especialista en Dante, es un hombre torturado por su pasado y orgulloso del prestigio que ha conseguido, aunque tambi\u00E9n es consciente de que es un im\u00E1n para el pecado y, en especial, para la lujuria.",
+      "popularity": 2.9037,
+      "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+      "release_date": "2020-05-29",
+      "title": "Gabriel\u0027s Inferno",
+      "video": false,
+      "vote_average": 8.403,
+      "vote_count": 2435
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Nx40jwpoTHPjCWNGoaZ6kaoGxa.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 255709,
+      "original_language": "ko",
+      "original_title": "\uC18C\uC6D0",
+      "overview": "Una ni\u00F1a llamada So Won se convierte en v\u00EDctima de la violencia. Su familia pasa por la desesperaci\u00F3n y el dolor al intentar abrir otra puerta en su vida.",
+      "popularity": 4.0829,
+      "poster_path": "/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+      "release_date": "2013-10-02",
+      "title": "So Won",
+      "video": false,
+      "vote_average": 8.402,
+      "vote_count": 805
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 311,
+      "original_language": "en",
+      "original_title": "Once Upon a Time in America",
+      "overview": "David Aaronson \u0022Noodles\u0022, un pobre joven jud\u00EDo, conoce en los suburbios de principios del siglo XX de Manhattan, Nueva York, a Maximilian Bercovicz \u0022Max\u0022, otro joven de origen hebreo dispuesto a llegar lejos por cualquier m\u00E9todo. Entablan una gran amistad y forman, con los 3 colegas de \u0022Noodles\u0022, Patrick Goldberg \u0022Patsy\u0022, Philip Stein \u0022Cockeye\u0022, y Dominic una banda que prospera r\u00E1pidamente. Desgraciadamente, son perseguidos por Bugsy, el tipo para el que Noodles y sus amigos trabajaban anteriormente, y en uno de sus asaltos, mata a Dominic. R\u00E1pidamente Noodles se tira encima suyo y le mata, por lo que pasar\u00E1 12 a\u00F1os en prisi\u00F3n. Cuando Noodles sale de prisi\u00F3n le recibe Max, que sigue con su banda junto a los otros 2 amigos, Patsy y Cockeye. R\u00E1pidamente, entre los 4, llegan a convertirse, en tiempos de la prohibici\u00F3n, en unos de los mayores g\u00E1nsteres de todo el pa\u00EDs.",
+      "popularity": 6.1563,
+      "poster_path": "/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+      "release_date": "1984-05-23",
+      "title": "\u00C9rase una vez en Am\u00E9rica",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 5775
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 324857,
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el l\u00EDder mafioso Wilson Fisk construye el \u0027Super Colisionador\u0027 trae a una versi\u00F3n alternativa de Peter Parker que tratar\u00E1 de ense\u00F1ar a Miles como ser un mejor Spider-Man. Pero no ser\u00E1 el \u00FAnico Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
+      "popularity": 14.0187,
+      "poster_path": "/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+      "release_date": "2018-12-06",
+      "title": "Spider-Man: un nuevo universo",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 16568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+      "genre_ids": [
+        14,
+        16,
+        12
+      ],
+      "id": 4935,
+      "original_language": "ja",
+      "original_title": "\u30CF\u30A6\u30EB\u306E\u52D5\u304F\u57CE",
+      "overview": "Sophie, una joven sobre la que pesa una horrible maldici\u00F3n que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+      "popularity": 14.7804,
+      "poster_path": "/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+      "release_date": "2004-09-09",
+      "title": "El castillo ambulante",
+      "video": false,
+      "vote_average": 8.394,
+      "vote_count": 10594
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 1891,
+      "original_language": "en",
+      "original_title": "The Empire Strikes Back",
+      "overview": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compa\u00F1\u00EDa de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el \u00FAltimo maestro Jedi, para que le ense\u00F1e los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halc\u00F3n Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "popularity": 6.9654,
+      "poster_path": "/eU7KcNAOeZj9PBIcGUMSsuJz8qj.jpg",
+      "release_date": "1980-05-20",
+      "title": "El imperio contraataca",
+      "video": false,
+      "vote_average": 8.394,
+      "vote_count": 17792
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "id": 378064,
+      "original_language": "ja",
+      "original_title": "\u6620\u753B \u8072\u306E\u5F62",
+      "overview": "Sh\u014Dko, una ni\u00F1a con discapacidad auditiva, es v\u00EDctima de acoso en su escuela, siendo Sh\u014Dya su principal agresor. Cuando ella se cambia de colegio, \u00E9l sufre el rechazo de sus compa\u00F1eros y queda aislado. A\u00F1os despu\u00E9s, intenta enmendar su error y hacer las paces con Sh\u014Dko.",
+      "popularity": 9.9293,
+      "poster_path": "/jAhaGJPreBrSWMN92MP2jjIDJKy.jpg",
+      "release_date": "2016-09-17",
+      "title": "A Silent Voice",
+      "video": false,
+      "vote_average": 8.385,
+      "vote_count": 4254
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1XqIhsqnAozznGhxlGdI0GPcCro.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 423,
+      "original_language": "en",
+      "original_title": "The Pianist",
+      "overview": "Varsovia, 1939. El pianista polaco de origen jud\u00EDo Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviaci\u00F3n alemana bombardea la capital. El r\u00E9gimen nazi ha invadido el pa\u00EDs, y como hace en otros pa\u00EDses invadidos, lleva a cabo la misma pol\u00EDtica con respecto a los jud\u00EDos. As\u00ED Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen jud\u00EDo al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un jud\u00EDo que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres a\u00F1os m\u00E1s tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentraci\u00F3n.",
+      "popularity": 7.9152,
+      "poster_path": "/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+      "release_date": "2002-09-17",
+      "title": "El pianista",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 9747
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iwgl8zlrrfvfWp9k9Paj8lvFEvS.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 807,
+      "original_language": "en",
+      "original_title": "Se7en",
+      "overview": "El teniente Somerset, del departamento de homicidios, est\u00E1 a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendr\u00E1n que colaborar en la resoluci\u00F3n de una serie de asesinatos cometidos por un psic\u00F3pata que toma como base la relaci\u00F3n de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las v\u00EDctimas, sobre los que el asesino se ensa\u00F1a de manera imp\u00FAdica, se convertir\u00E1n para los polic\u00EDas en un enigma que les obligar\u00E1 a viajar al horror y la barbarie m\u00E1s absoluta.",
+      "popularity": 18.1204,
+      "poster_path": "/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "release_date": "1995-09-22",
+      "title": "Seven",
+      "video": false,
+      "vote_average": 8.377,
+      "vote_count": 22241
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5h8VtV4oh2qkO8Iqz7gypIYJPAr.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 244786,
+      "original_language": "en",
+      "original_title": "Whiplash",
+      "overview": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de M\u00FAsica de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sue\u00F1os de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos m\u00E9todos de ense\u00F1anza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasi\u00F3n de Andrew por alcanzar la perfecci\u00F3n se convierte en obsesi\u00F3n, al tiempo que su despiadado profesor lo lleva al l\u00EDmite de su capacidad y de su salud mental.",
+      "popularity": 14.3035,
+      "poster_path": "/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+      "release_date": "2014-10-10",
+      "title": "Whiplash",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 16017
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/28kKbSUvUz6P5RE1AuMJMO7IMfK.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 27205,
+      "original_language": "en",
+      "original_title": "Inception",
+      "overview": "Dom Cobb es un ladr\u00F3n h\u00E1bil, el mejor de todos, especializado en el peligroso arte de extracci\u00F3n: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sue\u00F1o cuando la mente est\u00E1 m\u00E1s vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un \u00FAltimo trabajo podr\u00EDa recuperar su vida anterior, pero solamente si logra lo imposible.",
+      "popularity": 23.401,
+      "poster_path": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+      "release_date": "2010-07-15",
+      "title": "Origen",
+      "video": false,
+      "vote_average": 8.37,
+      "vote_count": 38153
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 724089,
+      "original_language": "en",
+      "original_title": "Gabriel\u0027s Inferno: Part II",
+      "overview": "Basado en la novela m\u00E1s vendida de Sylvain Reynard, el profesor Gabriel Emerson se ha embarcado en un apasionado pero clandestino romance con su antigua alumna, Julia Mitchell.",
+      "popularity": 1.1102,
+      "poster_path": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+      "release_date": "2020-07-31",
+      "title": "Gabriel\u0027s Inferno: Part II",
+      "video": false,
+      "vote_average": 8.369,
+      "vote_count": 1532
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7KR1nKGaYqPuFBnqP7XBIX0DZlR.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 770156,
+      "original_language": "en",
+      "original_title": "Lucy Shimmers and the Prince of Peace",
+      "overview": "Las segundas oportunidades comienzan cuando un criminal endurecido se cruza con una ni\u00F1a precoz a la que un \u00E1ngel ayuda a cambiar de coraz\u00F3n durante la temporada navide\u00F1a.",
+      "popularity": 4.353,
+      "poster_path": "/f938pbdnA0rYQCkdB2RIKLluJpW.jpg",
+      "release_date": "2020-10-19",
+      "title": "Un \u00E1ngel en nuestras vidas",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 326
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gutU32BiBxJvJdzLv5RWC9hQhNh.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1058694,
+      "original_language": "es",
+      "original_title": "Radical",
+      "overview": "En una ciudad fronteriza mexicana plagada de abandono, corrupci\u00F3n y violencia, un profesor frustrado prueba un nuevo m\u00E9todo radical para romper la apat\u00EDa de sus alumnos y desbloquear su curiosidad, su potencial... y puede que incluso su genialidad. Basada en una historia real.",
+      "popularity": 4.4204,
+      "poster_path": "/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+      "release_date": "2023-10-19",
+      "title": "Radical",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 480
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fQq1FWp1rC89xDrRMuyFJdFUdMd.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 761053,
+      "original_language": "en",
+      "original_title": "Gabriel\u0027s Inferno: Part III",
+      "overview": "",
+      "popularity": 4.2423,
+      "poster_path": "/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+      "release_date": "2020-11-19",
+      "title": "El infierno de Gabriel Parte 3",
+      "video": false,
+      "vote_average": 8.361,
+      "vote_count": 1068
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A62quSOB8otoZvGiLvMVZ9G4BiO.jpg",
+      "genre_ids": [
+        18,
+        80,
+        53
+      ],
+      "id": 12493,
+      "original_language": "ja",
+      "original_title": "\u5929\u56FD\u3068\u5730\u7344",
+      "overview": "En un momento crucial de su vida financiera, Gondo, un hombre de negocios, recibe la noticia de que su hijo ha sido secuestrado, y el rescate exigido es una cantidad de dinero similar a la que necesita para cerrar una importante negociaci\u00F3n. Gondo est\u00E1 dispuesto a pagar el rescate hasta que comprende que los secuestradores se han equivocado y se han llevado al hijo del ch\u00F3fer. Ahora deber\u00E1 decidir si el dinero es m\u00E1s importante que la vida del ni\u00F1o.",
+      "popularity": 7.6012,
+      "poster_path": "/pXXemxg8s7PHlide0A6cmb3UVU8.jpg",
+      "release_date": "1963-03-01",
+      "title": "El infierno del odio",
+      "video": false,
+      "vote_average": 8.351,
+      "vote_count": 1046
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qt01wUC460FCWfogDqe3UO00T3g.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 567,
+      "original_language": "en",
+      "original_title": "Rear Window",
+      "overview": "Un reportero fotogr\u00E1fico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compa\u00F1\u00EDa de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prism\u00E1ticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extra\u00F1as circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
+      "popularity": 6.1126,
+      "poster_path": "/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
+      "release_date": "1954-08-01",
+      "title": "La ventana indiscreta",
+      "video": false,
+      "vote_average": 8.349,
+      "vote_count": 6873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 274,
+      "original_language": "en",
+      "original_title": "The Silence of the Lambs",
+      "overview": "El FBI busca a \u0027Buffalo Bill\u0027, un asesino en serie que mata a sus v\u00EDctimas, todas adolescentes, despu\u00E9s de prepararlas minuciosamente y arrancarles la piel. Para poder atraparlo recurren a Clarice Starling, una brillante licenciada universitaria, experta en conductas psic\u00F3patas, que aspira a formar parte del FBI. Siguiendo las instrucciones de su jefe, Jack Crawford, Clarice visita la c\u00E1rcel de alta seguridad donde el gobierno mantiene encerrado a Hannibal Lecter, antiguo psicoanalista y asesino, dotado de una inteligencia superior a la normal. Su misi\u00F3n ser\u00E1 intentar sacarle informaci\u00F3n sobre los patrones de conducta de \u0027Buffalo Bill\u0027.",
+      "popularity": 3.5825,
+      "poster_path": "/8FdQQ3cUCs9goEOr1qUFaHackoJ.jpg",
+      "release_date": "1991-02-14",
+      "title": "El silencio de los corderos",
+      "video": false,
+      "vote_average": 8.346,
+      "vote_count": 17232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 569094,
+      "original_language": "en",
+      "original_title": "Spider-Man: Across the Spider-Verse",
+      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a trav\u00E9s del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los h\u00E9roes se enfrentan sobre c\u00F3mo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Ara\u00F1as y debe redefinir lo que significa ser un h\u00E9roe para poder salvar a la gente que m\u00E1s quiere.",
+      "popularity": 17.4542,
+      "poster_path": "/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "release_date": "2023-05-31",
+      "title": "Spider-Man: Cruzando el Multiverso",
+      "video": false,
+      "vote_average": 8.337,
+      "vote_count": 7996
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aVFx1VtlOxR3v0ADEatalXOvwbu.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28
+      ],
+      "id": 620249,
+      "original_language": "zh",
+      "original_title": "\u7F57\u5C0F\u9ED1\u6218\u8BB0",
+      "overview": "Durante generaciones, los humanos han cre\u00EDdo que los demonios eran leyendas, sin saber que realmente coexisten con nosotros. Hei es un gato demonio que ha vivido siempre feliz en los bosques de las monta\u00F1as, hasta que la expansi\u00F3n de la ciudad acaba destruyendo su propio hogar. En ese momento, Hei comienza a vagar por el mundo buscando un nuevo lugar en el que cobijarse.  Una pel\u00EDcula precuela de la serie web Luo Xiao Hei Zhan Ji. Los espectadores descubrir\u00E1n c\u00F3mo Xiao Hei obtuvo el apellido Luo. Tambi\u00E9n se espera que el episodio 28 de la serie sea lanzado justo antes de que la pel\u00EDcula se transmita en los cines despu\u00E9s de un par\u00E9ntesis de 2 a\u00F1os.",
+      "popularity": 9.6272,
+      "poster_path": "/ogqmdo6Vuofr1FkDQgwB1PHw4ZC.jpg",
+      "release_date": "2019-08-27",
+      "title": "La leyenda de Hei",
+      "video": false,
+      "vote_average": 8.334,
+      "vote_count": 413
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 73,
+      "original_language": "en",
+      "original_title": "American History X",
+      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el l\u00EDder de una banda de neonazis tras el asesinato de su padre. Su hermano peque\u00F1o, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres a\u00F1os de c\u00E1rcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compa\u00F1eros y las consecuencias de su pasado.",
+      "popularity": 8.4274,
+      "poster_path": "/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
+      "release_date": "1998-07-01",
+      "title": "American History X",
+      "video": false,
+      "vote_average": 8.331,
+      "vote_count": 12127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+      "genre_ids": [
+        12,
+        14,
+        16
+      ],
+      "id": 128,
+      "original_language": "ja",
+      "original_title": "\u3082\u306E\u306E\u3051\u59EB",
+      "overview": "Tras sufrir el ataque de un monstruoso jabal\u00ED maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infecci\u00F3n. Mientras, los humanos est\u00E1n acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deber\u00E1 escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldici\u00F3n de su herida que se extiende por su cuerpo sin cuartel.",
+      "popularity": 11.6044,
+      "poster_path": "/xP466sdt19CPLVljpRwI7luEgFn.jpg",
+      "release_date": "1997-07-12",
+      "title": "La princesa Mononoke",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 8578
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "id": 105,
+      "original_language": "en",
+      "original_title": "Back to the Future",
+      "overview": "El adolescente Marty McFly es amigo de Doc, un cient\u00EDfico al que todos toman por loco. Cuando Doc crea una m\u00E1quina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, a\u00F1o en el que sus futuros padres a\u00FAn no se hab\u00EDan conocido. Despu\u00E9s de impedir su primer encuentro, deber\u00E1 conseguir que se conozcan y se casen; de lo contrario, su existencia no ser\u00EDa posible.",
+      "popularity": 23.6741,
+      "poster_path": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "release_date": "1985-07-03",
+      "title": "Regreso al futuro",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 21023
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "genre_ids": [
+        16,
+        878,
+        10751,
+        18
+      ],
+      "id": 1184918,
+      "original_language": "en",
+      "original_title": "The Wild Robot",
+      "overview": "Esta aventura \u00E9pica cuenta la historia de una robot, Rozzum 7-1-3-4, \u0022Roz\u0022 para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirti\u00E9ndose en la madre adoptiva de una cr\u00EDa de ganso hu\u00E9rfana.",
+      "popularity": 19.8799,
+      "poster_path": "/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
+      "release_date": "2024-09-12",
+      "title": "Robot salvaje",
+      "video": false,
+      "vote_average": 8.32,
+      "vote_count": 5460
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2LMgkmtnmhjUHvFXNDruHzrUFKK.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10749
+      ],
+      "id": 15804,
+      "original_language": "zh",
+      "original_title": "\u726F\u5DBA\u8857\u5C11\u5E74\u6BBA\u4EBA\u4E8B\u4EF6",
+      "overview": "Taiwan, a\u00F1os \u002760. Los j\u00F3venes taiwaneses, aunque dominados por China, se sienten deslumbrados por los Estados Unidos y organizan bandas para afirmar su identidad. La versi\u00F3n original duraba 237 minutos, pero por motivos comerciales Yang la recort\u00F3 para su exhibici\u00F3n hasta los 188 minutos.",
+      "popularity": 5.5158,
+      "poster_path": "/g5gMOcn0vFUITufKSxxL2WCyBIU.jpg",
+      "release_date": "1991-07-27",
+      "title": "Un d\u00EDa de verano",
+      "video": false,
+      "vote_average": 8.316,
+      "vote_count": 361
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gcgKSyE2iqwfKWMDZ8TJPxeIu0P.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10749
+      ],
+      "id": 820067,
+      "original_language": "ja",
+      "original_title": "\u6620\u753B \u4E94\u7B49\u5206\u306E\u82B1\u5AC1",
+      "overview": "Como tutor a tiempo parcial, a Fuutarou se le asigna la tarea de guiar a las cinco hermosas chicas, que est\u00E1n \u201Ca punto de suspender\u201D y \u201Codian los estudios\u201D, hasta la \u201Cgraduaci\u00F3n\u201D. Fuutarou se esfuerza por preparar el festival escolar mientras vigila los estudios de Ichika, que ha decidido tomarse una licencia para concentrarse en la actuaci\u00F3n, y Yotsuba est\u00E1 a\u00FAn m\u00E1s decidida que de costumbre a que sea un festival escolar sin remordimientos.  Fuutarou se siente animado por la decisi\u00F3n de Itsuki de no rendirse, y busca respuestas a los sentimientos de Nino, la determinaci\u00F3n de Miku y sus sentimientos por Ichika, Yotsuba e Itsuki. Con cada uno de ellos con sus propios pensamientos y sentimientos, el primer d\u00EDa del festival escolar, el \u00FAltimo evento de su vida en el instituto, finalmente comenz\u00F3. \u201CVen al sal\u00F3n de clases a las 15:00, el primer d\u00EDa del festival escolar\u201D. Las quintillizas se re\u00FAnen en el aula y Fuutarou finalmente les informa que tomar\u00E1 una decisi\u00F3n\u2026",
+      "popularity": 5.4979,
+      "poster_path": "/6QsExD8uP3vLk64yLnxD8MSS4A6.jpg",
+      "release_date": "2022-05-20",
+      "title": "Las Quintillizas: La Pel\u00EDcula",
+      "video": false,
+      "vote_average": 8.311,
+      "vote_count": 423
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tLmyP7akYmxLwyfTEt2qyj2sOR3.jpg",
+      "genre_ids": [
+        10749,
+        16
+      ],
+      "id": 372754,
+      "original_language": "ja",
+      "original_title": "\u540C\u7D1A\u751F",
+      "overview": "Saj\u00F4 y Kusakabe son m\u00E1s o menos igual de altos, tienen la misma edad y van a la misma clase. Por lo dem\u00E1s, no puede decirse que tengan mucho en com\u00FAn. Kusakabe, de car\u00E1cter inquieto y despreocupado, toca en un grupo de rock con sus amigos y deja pasar los d\u00EDas sin pensar mucho en el futuro. Saj\u00F4, en cambio, es un alumno mod\u00E9lico que no termina de encajar en ese instituto de macarras, al que nadie sabe muy bien c\u00F3mo fue a parar. Un d\u00EDa, Kusakabe se da cuenta de que su compa\u00F1ero no canta en los ensayos del coro para intentar disimular su falta de o\u00EDdo musical, as\u00ED que se ofrece a darle unas lecciones. Entre refrescos compartidos bajo el sol de verano, nace entre ellos un amor de adolescencia que crecer\u00E1 con el devenir de las estaciones. De la mano, compartiendo sinsabores y alegr\u00EDas, ambos se encaminar\u00E1n hacia el final de sus d\u00EDas de instituto y el comienzo de la vida adulta.",
+      "popularity": 4.783,
+      "poster_path": "/7byisQANRFHf9SC60n5PaLywuMa.jpg",
+      "release_date": "2016-02-20",
+      "title": "En la misma clase",
+      "video": false,
+      "vote_average": 8.309,
+      "vote_count": 418
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/stiGp1XzkLSYdUUEWTyQOZRkr49.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 3782,
+      "original_language": "ja",
+      "original_title": "\u751F\u304D\u308B",
+      "overview": "Kanji Watanabe es un viejo funcionario p\u00FAblico que arrastra una vida mon\u00F3tona y gris; sin embargo, no es consciente del vac\u00EDo de su existencia hasta que le diagnostican un c\u00E1ncer incurable. Con la certeza de que el fin de sus d\u00EDas se acerca, surge en \u00E9l la necesidad de buscarle un sentido a la vida. Y cuando lo consigue se produce un cambio radical en su actitud respecto a los dem\u00E1s.",
+      "popularity": 6.6306,
+      "poster_path": "/eDg67pLOtZAewt0hKIoinECpzCG.jpg",
+      "release_date": "1952-10-09",
+      "title": "Vivir",
+      "video": false,
+      "vote_average": 8.308,
+      "vote_count": 1252
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 1186532,
+      "original_language": "en",
+      "original_title": "The Forge",
+      "overview": "Isaiah Wright a\u00FAn tiene que madurar. Tras graduarse en el instituto sin ning\u00FAn plan para el futuro, Isaiah recibe un empuj\u00F3n para empezar a tomar mejores decisiones en la vida. El plan de Dios para \u00E9l es mucho mayor de lo que jam\u00E1s hubiera imaginado.",
+      "popularity": 4.1175,
+      "poster_path": "/loYpxub1ZZVmI4JzPC0jLkerq3g.jpg",
+      "release_date": "2024-08-22",
+      "title": "La fragua",
+      "video": false,
+      "vote_average": 8.306,
+      "vote_count": 302
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
+      "genre_ids": [
+        16,
+        53
+      ],
+      "id": 10494,
+      "original_language": "ja",
+      "original_title": "PERFECT BLUE",
+      "overview": "Tras a\u00F1os siendo una \u00EDdolo juvenil que forma parte del exitoso tr\u00EDo musical CHAM!, Mima Kirigoe decide abandonar el grupo para perseguir su sue\u00F1o de convertirse en actriz. Alentada por su entorno, decide romper con su imagen de ni\u00F1a buena y acepta un papel en una serie polic\u00EDaca subida de tono, lo que provoca la ira de muchos de sus fans. Pronto descubre que alguien est\u00E1 escribiendo un blog en internet en el que explica detalles \u00EDntimos sobre su vida y adem\u00E1s su misterioso acosador pasa a la acci\u00F3n amenazando a sus seres queridos. Mientras los cad\u00E1veres comienzan a acumularse a su alrededor, la realidad y las alucinaciones se mezclan en un mundo terror\u00EDfico en el que no hay lugar para la inocencia y los sue\u00F1os se convierten en pesadillas.",
+      "popularity": 7.3309,
+      "poster_path": "/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg",
+      "release_date": "1998-02-28",
+      "title": "Perfect Blue",
+      "video": false,
+      "vote_average": 8.305,
+      "vote_count": 2963
+    }
+  ]
+}
