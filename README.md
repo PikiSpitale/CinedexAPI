@@ -19,7 +19,7 @@ Backend ASP.NET Core 8 que sirve la API Cinedex.
 
 ## 1. Clonar y restaurar paquetes
 
-1. Clona el repositorio (ejemplo: git clone https://github.com/PikiSpitale/CinedexAPI.git).
+1. Clona el repositorio (ejemplo: git clone https://github.com/PikiSpitale/CinedexAPI).
 2. Abre la terminal en la carpeta donde aparece proyecto prog4.sln.
 3. Ejecuta:
    dotnet restore "proyecto prog4.sln"
