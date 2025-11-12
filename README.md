@@ -19,7 +19,7 @@ Backend ASP.NET Core 8 que sirve la API Cinedex.
 
 ## 1. Clonar y restaurar paquetes
 
-1. Clona el repositorio (ejemplo: git clone https://github.com/tu-org/proyecto-prog4).
+1. Clona el repositorio (ejemplo: git clone https://github.com/PikiSpitale/CinedexAPI.git).
 2. Abre la terminal en la carpeta donde aparece proyecto prog4.sln.
 3. Ejecuta:
    dotnet restore "proyecto prog4.sln"
@@ -32,7 +32,7 @@ Backend ASP.NET Core 8 que sirve la API Cinedex.
 ```json
 {
   "ConnectionStrings": {
-    "devConnection": "Server=localhost;Database=Cinedex;User Id=sa;Password=TuContrasena;TrustServerCertificate=True;"
+    "devConnection": "Server=localhost;Database=Cinedex;User Id=sa;Password=TuContraseña;TrustServerCertificate=True;"
   },
   "Secrets": {
     "JWT": "una-clave-muy-larga-para-firmar-tokens"
@@ -45,18 +45,6 @@ Backend ASP.NET Core 8 que sirve la API Cinedex.
 ```ps
 dotnet user-secrets set "ConnectionStrings:devConnection" "Server=localhost;Database=Cinedex;User Id=sa;Password=TuContrasena;TrustServerCertificate=True;"
 dotnet user-secrets set "Secrets:JWT" "una-clave-muy-larga-para-firmar-tokens"
-```
-
-- Alternativamente puedes usar variables de entorno:
-
-```ps
-$env:ConnectionStrings__devConnection="Server=localhost;Database=Cinedex;User Id=sa;Password=TuContrasena;TrustServerCertificate=True;"
-$env:Secrets__JWT="una-clave-muy-larga-para-firmar-tokens"
-```
-
-```bash
-export ConnectionStrings__devConnection="Server=localhost;Database=Cinedex;User Id=sa;Password=TuContrasena;TrustServerCertificate=True;"
-export Secrets__JWT="una-clave-muy-larga-para-firmar-tokens"
 ```
 
 ## 3. Crear la base y aplicar migraciones
