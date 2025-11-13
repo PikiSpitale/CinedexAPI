@@ -21,6 +21,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(typeof(List<Movie>), StatusCodes.Status200OK)]
         public async Task<IActionResult> GetAll([FromQuery] string? search)
         {
             var movies = await _movieService.GetAll();
@@ -37,10 +38,13 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet("{id}")]
+        [ProducesResponseType(typeof(MoviesDTO), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         public async Task<IActionResult> GetById(int id)
         {
             var movie = await _movieService.GetOne(id);
-            if (movie == null) return NotFound(new { message = "Movie not found" });
+            if (movie == null)
+                return NotFound(new { message = "Movie not found" });
 
             var dto = new MoviesDTO
             {
@@ -63,7 +67,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = ROL.ADMIN)]
+        [Authorize(Roles = ROL.MOD)]
         [ProducesResponseType(typeof(MoviesDTO), StatusCodes.Status201Created)]
         [ProducesResponseType(typeof(ValidationErrorResponse), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(void), StatusCodes.Status403Forbidden)]
@@ -77,7 +81,10 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPut("{id}")]
-        [Authorize(Roles = ROL.ADMIN)]
+        [Authorize(Roles = ROL.MOD)]
+        [ProducesResponseType(typeof(object), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(ValidationErrorResponse), StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> Update(int id, [FromBody] UpdateMovieDTO dto)
         {
             if (!ModelState.IsValid)
@@ -91,7 +98,9 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = ROL.ADMIN)]
+        [Authorize(Roles = ROL.MOD)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         public async Task<IActionResult> Delete(int id)
         {
             var result = await _movieService.Delete(id);
@@ -102,4 +111,3 @@ namespace proyecto_prog4.Controllers
         }
     }
 }
-

@@ -2,7 +2,6 @@ using Microsoft.EntityFrameworkCore;
 using proyecto_prog4.Models.Genres;
 using proyecto_prog4.Models.Movie;
 using proyecto_prog4.Models.MovieGenres;
-using proyecto_prog4.Models.Review;
 using proyecto_prog4.Models.Rol;
 using proyecto_prog4.Models.UserFavorite;
 using proyecto_prog4.Models.Usuario;
@@ -14,7 +13,6 @@ namespace proyecto_prog4.Config
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Movie> Movies { get; set; }
-        public DbSet<Review> Reviews { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
         public DbSet<UserFavorite> UserFavorites { get; set; }
         public DbSet<Genre> Genres { get; set; }

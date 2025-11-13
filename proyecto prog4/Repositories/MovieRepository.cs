@@ -28,7 +28,6 @@ namespace proyecto_prog4.Repositories
                 query = query.Where(filter);
 
             return await query
-                .Include(x => x.Reviews)
                 .Include(x => x.Genres)
                     .ThenInclude(mg => mg.Genre)
                 .ToListAsync();
@@ -41,7 +40,6 @@ namespace proyecto_prog4.Repositories
                 query = query.Where(filter);
 
             return await query
-                .Include(x => x.Reviews)
                 .Include(x => x.Genres)
                     .ThenInclude(mg => mg.Genre)
                 .FirstOrDefaultAsync();

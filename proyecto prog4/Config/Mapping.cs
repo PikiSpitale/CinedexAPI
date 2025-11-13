@@ -4,8 +4,6 @@ using proyecto_prog4.Models.Genres;
 using proyecto_prog4.Models.Movie;
 using proyecto_prog4.Models.Movie.Dto;
 using proyecto_prog4.Models.MovieGenres;
-using proyecto_prog4.Models.Review;
-using proyecto_prog4.Models.Review.Dto;
 using proyecto_prog4.Models.User.Dto;
 using proyecto_prog4.Models.Usuario;
 
@@ -42,16 +40,6 @@ namespace MovieExplorer.Config
                 Id = src.GenreId,
                 Name = src.Genre.Name ?? string.Empty
             });
-
-            //  Review
-            CreateMap<Review, ReviewsDTO>().ReverseMap();
-            CreateMap<CreateReviewDTO, Review>();
-
-            CreateMap<UpdateReviewDTO, Review>().ForAllMembers(opts =>
-            {
-                opts.Condition((_, _, srcMember) => srcMember != null);
-            });
-
             //  Usuario / Auth
             CreateMap<RegisterDTO, Usuario>();
             CreateMap<Usuario, UsuarioDTO>().ReverseMap();

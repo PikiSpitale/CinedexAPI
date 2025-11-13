@@ -38,7 +38,6 @@ builder.Services.AddSwaggerGen(options =>
 builder.Services.AddScoped<AuthServices>();
 builder.Services.AddScoped<MovieServices>();
 builder.Services.AddScoped<GenresServices>();
-builder.Services.AddScoped<ReviewServices>();
 builder.Services.AddScoped<UserServices>();
 builder.Services.AddScoped<IEncoderServices, EncoderServices>();
 builder.Services.AddScoped<RolServices>();
@@ -46,7 +45,6 @@ builder.Services.AddScoped<FavoritesServices>();
 
 // Repositories
 builder.Services.AddScoped<IMovieRepository ,MovieRepository>();
-builder.Services.AddScoped<IReviewRepository ,ReviewRepository>();
 builder.Services.AddScoped<IUserRepository ,UserRepository>();
 builder.Services.AddScoped<IRolRepository, RolRepository>();
 

@@ -15,7 +15,6 @@ namespace proyecto_prog4.Models.Movie
         public string PosterUrl { get; set; } = null!;
         public double Rating { get; set; }
         public ICollection<MovieGenres.MovieGenres> Genres { get; set;} = new List<MovieGenres.MovieGenres>();
-        public ICollection<Review.Review> Reviews { get; set; } = new List<Review.Review>();
         public ICollection<UserFavorite.UserFavorite> Favoritos { get; set; } = new List<UserFavorite.UserFavorite>();
     }
 }

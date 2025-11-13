@@ -25,6 +25,9 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(typeof(IEnumerable<UsuarioWithRolesDTO>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status403Forbidden)]
         public async Task<ActionResult<IEnumerable<UsuarioWithRolesDTO>>> GetAll()
         {
             var users = await _userServices.GetAllUsersAsync();
@@ -33,6 +36,10 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet("{id:int}")]
+        [ProducesResponseType(typeof(UsuarioWithRolesDTO), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(HttpMessage), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status403Forbidden)]
         public async Task<ActionResult<UsuarioWithRolesDTO>> GetOne(int id)
         {
             try

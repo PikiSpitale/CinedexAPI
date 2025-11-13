@@ -20,6 +20,10 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(HttpMessage))]
         public async Task<IActionResult> AddFavorite([FromBody] AddFavoriteDTO dto)
         {
             try
@@ -35,6 +39,11 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpDelete("{movieId:int}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(HttpMessage))]
         public async Task<IActionResult> RemoveFavorite(int movieId)
         {
             try
@@ -50,6 +59,9 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<FavoriteMovieDTO>))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(HttpMessage))]
         public async Task<ActionResult<List<FavoriteMovieDTO>>> GetFavorites()
         {
             int usuarioId = GetAuthenticatedUserId();

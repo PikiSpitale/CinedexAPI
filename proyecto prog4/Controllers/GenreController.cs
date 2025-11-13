@@ -20,6 +20,8 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(IEnumerable<GenreWithMoviesDTO>))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> GetAll()
         {
             var genres = await _genreService.GetAll();
@@ -28,6 +30,9 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet("{id:int}")]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(GenreWithMoviesDTO))]
+        [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> GetById(int id)
         {
             var genre = await _genreService.GetById(id);
@@ -38,7 +43,13 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = ROL.ADMIN)]
+        [Authorize(Roles = ROL.MOD)]
+        [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(GenreWithMoviesDTO))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status409Conflict, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(StatusCodes.Status403Forbidden)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Create([FromBody] GenreCreateDTO dto)
         {
             if (!ModelState.IsValid)
@@ -52,7 +63,14 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPut("{id:int}")]
-        [Authorize(Roles = ROL.ADMIN)]
+        [Authorize(Roles = ROL.MOD)]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status409Conflict, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(StatusCodes.Status403Forbidden)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Update(int id, [FromBody] GenreUpdateDTO dto)
         {
             if (!ModelState.IsValid)
@@ -73,7 +91,12 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpDelete("{id:int}")]
-        [Authorize(Roles = ROL.ADMIN)]
+        [Authorize(Roles = ROL.MOD)]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(object))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(StatusCodes.Status403Forbidden)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Delete(int id)
         {
             var deleted = await _genreService.Delete(id);

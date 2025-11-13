@@ -21,6 +21,9 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(typeof(IEnumerable<RolDTO>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(void), StatusCodes.Status403Forbidden)]
         public async Task<ActionResult<IEnumerable<RolDTO>>> GetAll()
         {
             var roles = await _rolServices.GetAll();

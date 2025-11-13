@@ -19,6 +19,9 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost("login")]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(LoginResponseDTO))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized, Type = typeof(HttpMessage))]
         public async Task<IActionResult> Login([FromBody] LoginDTO dto)
         {
             if (!ModelState.IsValid)
@@ -36,6 +39,8 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost("register")]
+        [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(RegisterDTO))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(HttpMessage))]
         public async Task<IActionResult> Register([FromBody] RegisterDTO dto)
         {
             if (!ModelState.IsValid)
@@ -54,7 +59,10 @@ namespace proyecto_prog4.Controllers
 
         [HttpPost("logout")]
         [Authorize]
-        async public Task<ActionResult> Logout()
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(HttpMessage))]
+        public async Task<ActionResult> Logout()
         {
             try
             {
@@ -70,10 +78,14 @@ namespace proyecto_prog4.Controllers
             }
         }
 
-
         [HttpPut("{id}/roles")]
         [Authorize(Roles = ROL.ADMIN)]
-        async public Task<ActionResult<UsuarioWithRolesDTO>> AssignRoles(int id, [FromBody] List<int> rolesIds)
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(UsuarioWithRolesDTO))]
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status403Forbidden, Type = typeof(HttpMessage))]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError, Type = typeof(HttpMessage))]
+        public async Task<ActionResult<UsuarioWithRolesDTO>> AssignRoles(int id, [FromBody] List<int> rolesIds)
         {
             try
             {
@@ -81,34 +93,11 @@ namespace proyecto_prog4.Controllers
             }
             catch (HttpResponseError ex)
             {
-                return StatusCode(
-                    (int)ex.StatusCode,
-                    new HttpMessage(ex.Message)
-                );
+                return StatusCode((int)ex.StatusCode, new HttpMessage(ex.Message));
             }
             catch (Exception ex)
             {
-                return StatusCode(
-                    StatusCodes.Status500InternalServerError,
-                    new HttpMessage(ex.Message)
-                );
-            }
-        }
-
-        [HttpGet("health")]
-        [ApiExplorerSettings(IgnoreApi = true)]
-        public ActionResult<bool> Health()
-        {
-            try
-            {
-                return Ok(true);
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(
-                    StatusCodes.Status500InternalServerError,
-                    new HttpMessage(ex.Message)
-                );
+                return StatusCode(StatusCodes.Status500InternalServerError, new HttpMessage(ex.Message));
             }
         }
     }
