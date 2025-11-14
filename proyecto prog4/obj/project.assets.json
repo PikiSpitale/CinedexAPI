@@ -4759,11 +4759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\programacion4\\CinedexAPI-main\\proyecto prog4\\proyecto prog4.csproj",
+      "projectUniqueName": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\programacion4\\CinedexAPI\\proyecto prog4\\proyecto prog4.csproj",
       "projectName": "proyecto prog4",
-      "projectPath": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\programacion4\\CinedexAPI-main\\proyecto prog4\\proyecto prog4.csproj",
+      "projectPath": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\programacion4\\CinedexAPI\\proyecto prog4\\proyecto prog4.csproj",
       "packagesPath": "C:\\Users\\pikis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\programacion4\\CinedexAPI-main\\proyecto prog4\\obj\\",
+      "outputPath": "C:\\Users\\pikis\\OneDrive\\Escritorio\\Programacion\\programacion4\\CinedexAPI\\proyecto prog4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -54,7 +54,7 @@ namespace proyecto_prog4.Services
 
             // Generar token para el usuario recién creado
             var token = GenerateToken(userCreated);
-            return new LoginResponseDTO { Token = token };
+            return new LoginResponseDTO { Token = token, User = _mapper.Map<UsuarioWithRolesDTO>(userCreated) };
         }
 
         public async Task<LoginResponseDTO> LoginAsync(LoginDTO dto, HttpContext context)

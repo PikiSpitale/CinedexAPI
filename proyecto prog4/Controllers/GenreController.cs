@@ -43,7 +43,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = ROL.MOD)]
+        [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
         [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(GenreWithMoviesDTO))]
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(object))]
         [ProducesResponseType(StatusCodes.Status409Conflict, Type = typeof(object))]
@@ -63,7 +63,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPut("{id:int}")]
-        [Authorize(Roles = ROL.MOD)]
+        [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(object))]
         [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(object))]
         [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(object))]
@@ -91,7 +91,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpDelete("{id:int}")]
-        [Authorize(Roles = ROL.MOD)]
+        [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound, Type = typeof(object))]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]

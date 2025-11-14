@@ -1,4 +1,6 @@
-﻿namespace proyecto_prog4.Models.User.Dto
+﻿using proyecto_prog4.Models.Usuario;
+
+namespace proyecto_prog4.Models.User.Dto
 {
     public class LoginResponseDTO
     {

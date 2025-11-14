@@ -12,7 +12,8 @@ namespace proyecto_prog4.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = ROL.ADMIN)]
+    [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
+
     public class UserController : ControllerBase
     {
         private readonly UserServices _userServices;

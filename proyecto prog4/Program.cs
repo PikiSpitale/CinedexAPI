@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MovieExplorer.Config;
@@ -59,7 +60,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 // JWT
-var jwtSecret = builder.Configuration["Secrets:JWT"] ?? throw new InvalidOperationException("JWT secret not configured");
+var jwtSecret = builder.Configuration.GetSection("Secrets")?.GetSection("JWT")?.Value?.ToString() ?? null!;
 builder.Services.AddAuthentication(x =>
 {
     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -67,7 +68,7 @@ builder.Services.AddAuthentication(x =>
 })
 .AddJwtBearer(x =>
 {
-    var key = Encoding.ASCII.GetBytes(jwtSecret);
+    var key = Encoding.UTF8.GetBytes(jwtSecret);
     x.RequireHttpsMetadata = false;
     x.SaveToken = true;
     x.TokenValidationParameters = new TokenValidationParameters

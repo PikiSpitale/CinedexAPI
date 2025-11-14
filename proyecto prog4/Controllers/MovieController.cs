@@ -67,7 +67,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = ROL.MOD)]
+        [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
         [ProducesResponseType(typeof(MoviesDTO), StatusCodes.Status201Created)]
         [ProducesResponseType(typeof(ValidationErrorResponse), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(void), StatusCodes.Status403Forbidden)]
@@ -81,7 +81,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpPut("{id}")]
-        [Authorize(Roles = ROL.MOD)]
+        [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
         [ProducesResponseType(typeof(object), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         [ProducesResponseType(typeof(ValidationErrorResponse), StatusCodes.Status400BadRequest)]
@@ -98,7 +98,7 @@ namespace proyecto_prog4.Controllers
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = ROL.MOD)]
+        [Authorize(Roles = $"{ROL.ADMIN},{ROL.MOD}")]
         [ProducesResponseType(typeof(void), StatusCodes.Status204NoContent)]
         [ProducesResponseType(typeof(object), StatusCodes.Status404NotFound)]
         public async Task<IActionResult> Delete(int id)
