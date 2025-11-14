@@ -54,7 +54,12 @@ dotnet user-secrets set "Secrets:JWT" "una-clave-muy-larga-para-firmar-tokens"
 - Aplica las migraciones:
   dotnet ef database update --project "./proyecto prog4/proyecto prog4.csproj" --startup-project "./proyecto prog4/proyecto prog4.csproj"
 
-## 4. Ejecutar el backend
+## 4. Roles iniciales
+
+- Crea manualmente en la base de datos `Cinedex` los roles `Admin`, `Mod` y `User` (p. ej. insertando en `Roles` o `AspNetRoles`, según tu modelo).
+- El primer rol `Admin` debe ingresarse también de forma manual porque no hay datos semilla; asegúrate de que exista la fila con ese nombre antes de crear usuarios con permisos elevados.
+
+## 5. Ejecutar el backend
 
 Desde la carpeta raiz ejecuta:
 
@@ -62,7 +67,7 @@ dotnet run --project "./proyecto prog4/proyecto prog4.csproj"
 
 El servidor expone Swagger en https://localhost:xxxx/swagger y permite peticiones desde http://localhost:5173 (CORS definido en Program.cs).
 
-## 5. Verificar la API
+## 6. Verificar la API
 
 - Abre Swagger para probar los endpoints y confirmar que el token JWT se genera y valida.
 - Usa tu frontend o Postman contra el host indicado en la consola.
